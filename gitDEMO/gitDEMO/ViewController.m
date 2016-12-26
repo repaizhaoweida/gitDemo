@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"第一次测试gitHub");
+    NSString *name = @"wwerwer";
+    NSLog(@"%@",name);
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
